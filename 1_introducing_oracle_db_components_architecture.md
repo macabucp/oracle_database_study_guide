@@ -1,4 +1,4 @@
-# Chapter 8: Introducing Oracle Database 12c Components and Architecture
+# Introducing Oracle Database 12c Components and Architecture
 
 ## Oracle Database 12c: OCA Exam Objectives
 
